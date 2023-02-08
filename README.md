@@ -4,12 +4,13 @@ Hi, I'm Erisson Almeida! <img src="https://github.com/TheDudeThatCode/TheDudeTha
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Freelancer;DS%20|%20AS%20&center=true&width=380&height=45"></a>
 </p>
 
-<img alt="dsmark" align="left"  height="30%" width="30%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 <hr>
+
+<img alt="dsmark" align="right"  height="25%" width="25%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 ```
 I-am-developerErisson@github
