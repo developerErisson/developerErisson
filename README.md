@@ -108,7 +108,7 @@ I'm a Full Stack Developer
 <p>
 
 <div align="center">
-  &copy; 2023 Shourya Sharma
+  &copy; 2023 Erisson Almeida
 </div>
 
 ------
