@@ -32,8 +32,8 @@ I'm a Full Stack Developer
 ### 👨‍💻 Programming Languages
 
 <p>
-<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white"></a>
     <a href="#"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-20232A?&logo=typescript&logoColor=blue"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -44,12 +44,12 @@ I'm a Full Stack Developer
 ### 🧰 Frameworks and Libraries
 
 <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="puppeteer" src="https://img.shields.io/badge/Puppeteer%20-%23013243.svg?logo=puppeteer&logoColor=white"></a>
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23D00000.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer%20-%23013243.svg?logo=puppeteer&logoColor=white"></a>
     <a href="#"><img alt="Socket" src="https://img.shields.io/badge/Socket.io%20-%23150458.svg?logo=socket.io&logoColor=white"></a>
     <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize%20-%23327FC7.svg?logo=sequelize&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-00b56a?logo=swagger&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="more" src="https://img.shields.io/badge/+more...-092E20?"></a>
@@ -77,7 +77,7 @@ I'm a Full Stack Developer
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&ogoColor=white"><a>
     <a href="#"><img alt="more" src="https://img.shields.io/badge/+more...-092E20?"></a>
 </p>
 
@@ -112,8 +112,4 @@ I'm a Full Stack Developer
 </div>
 
 ------
-
-
-
-
 
