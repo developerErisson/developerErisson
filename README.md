@@ -83,9 +83,9 @@ I'm a Full Stack Developer
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-Centos+debian-999999?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-7,8,10,11-999999?style=for-the-badge&logo=windows&logoColor=blue"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-All-999999?style=for-the-badge&logo=android&logoColor=green"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-999999?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=windows&logoColor=blue"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-999999?style=for-the-badge&logo=android&logoColor=green"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -110,7 +110,7 @@ I'm a Full Stack Developer
 <p>
 
 <div align="center">
-  &copy; 2023 Erisson Almeida
+  &copy; 2024 Erisson Almeida
 </div>
 
 
